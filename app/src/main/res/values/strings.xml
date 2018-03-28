@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Fragment App</string>
+    <string name="bulbasaur">Bulbasaur</string>
+    <string name="test_text">Test Text</string>
+    <string name="no_rating">Nog geen rating...</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+</resources>

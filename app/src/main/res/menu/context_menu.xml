@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single"
+        android:enabled="true"
+        android:visible="true">
+        <item
+            android:id="@+id/red"
+            android:enabled="true"
+            android:title="@string/red"
+            android:visible="true" />
+        <item
+            android:id="@+id/blue"
+            android:enabled="true"
+            android:title="@string/blue"
+            android:visible="true" />
+    </group>
+</menu>
